@@ -1,0 +1,10 @@
+pat001|password123|David Patinetson|davidp@example.com|0412345678|12 Real Place, Sydney, NSW
+pat002|password456|Sarah White|sarahw@example.com|0498765432|34 Elm Street, Melbourne, VIC
+pat003|password789|Tom Baker|tombaker@example.com|0487654321|56 Oak Road, Brisbane, QLD
+pat004|password321|Emma Brown|emmabrown@example.com|0412348765|78 Pine Avenue, Perth, WA
+pat005|password654|James Smith|jamessmith@example.com|0423456789|90 Cedar Street, Adelaide, SA
+pat006|password|oiy ert|456465@45454|454512121|1221 wwe, wer, POI
+123132|11231|1231321 01213|123132|3121|132123 12131, 312123, 1231
+test|test|test test|test.com|123|123 t, t, t
+1|11|Avinash 1|111@111|123|11 11, 11, 11
+pat008|pass|Avinash 1|111@111|1111|111 111, 111, 111

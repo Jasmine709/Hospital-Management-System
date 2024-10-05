@@ -1,0 +1,7 @@
+doc004|Emily Davis|pat002|Sarah White|2024-10-06|Routine follow-up
+doc003|Jack Johnson|pat003|Tom Baker|2024-10-02|Flu symptoms check
+doc001|John Doe|pat001|David Patinetson|2024-10-04|Blood test results discussion
+doc001|John Doe|pat004|Emma Brown|2024-09-30|Consultation for headaches
+
+
+doc004|Emily Davis|pat008|Avinash 1|2024-09-24|flu

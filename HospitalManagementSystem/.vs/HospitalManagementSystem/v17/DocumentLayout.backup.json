@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\data\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\menus\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\menus\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\services\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\services\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\data\\appointmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\data\\appointmentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\menus\\administratormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\menus\\administratormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\menus\\doctormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\menus\\doctormenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\menus\\patientmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\menus\\patientmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\qiyue\\desktop\\32998 .net  mon10\uFF1A00\\assignment1\\junyi guo\\hospitalmanagementsystem\\hospitalmanagementsystem\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2565859A-6E7C-4B06-8048-BAE56D9EC978}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\Patient.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:37:38.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Appointment.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:07:52.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Administrator.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\Administrator.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Administrator.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\Administrator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:06:52.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginMenu.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Menus\\LoginMenu.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Menus\\LoginMenu.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Menus\\LoginMenu.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Menus\\LoginMenu.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:03:06.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Program.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:02:50.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Data\\UserData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Data\\UserData.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Data\\UserData.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Data\\UserData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:30:47.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\Doctor.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\Doctor.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:06:00.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:04:42.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\DoctorService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:18:40.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\Extensions.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Services\\Extensions.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\Extensions.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Services\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T02:21:32.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdministratorMenu.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Menus\\AdministratorMenu.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Menus\\AdministratorMenu.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Menus\\AdministratorMenu.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Menus\\AdministratorMenu.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAUwG8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T10:03:00.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentData.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Data\\AppointmentData.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Data\\AppointmentData.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Data\\AppointmentData.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Data\\AppointmentData.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAowEcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:33:20.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorMenu.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Menus\\DoctorMenu.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Menus\\DoctorMenu.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Menus\\DoctorMenu.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Menus\\DoctorMenu.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAuwNQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:10:42.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PatientMenu.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Menus\\PatientMenu.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Menus\\PatientMenu.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Menus\\PatientMenu.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Menus\\PatientMenu.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAswI4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:10:43.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\README.txt",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\README.txt",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\README.txt",
+              "RelativeToolTip": "HospitalManagementSystem\\README.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-22T04:19:35.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\qiyue\\Desktop\\32998 .NET  Mon10\uFF1A00\\Assignment1\\Junyi Guo\\HospitalManagementSystem\\HospitalManagementSystem\\Services\\PatientService.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\Services\\PatientService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwFMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:51:39.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+doc001|pass123|John Doe|johndoe@example.com|0412345678|123 Main St, Sydney, NSW
+doc002|pass456|Jane Smith|janesmith@example.com|0498765432|456 Elm St, Melbourne, VIC
+doc003|pass789|Jack Johnson|jackjohnson@example.com|0487654321|789 Oak St, Brisbane, QLD
+doc004|pass321|Emily Davis|emilydavis@example.com|0412348765|321 Pine St, Perth, WA
+doc005|pass654|Michael Brown|michaelbrown@example.com|0423456789|654 Cedar St, Adelaide, SA
+doc006|password|first last|email@123.com|045687755|456 street, ciyt, state
+test|test|Test test|test.com|123|412 test, test, test
+11|11|Avinash 1|111@22|1111|11 11, 11, 11
