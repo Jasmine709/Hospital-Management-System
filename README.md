@@ -4,7 +4,7 @@ Project Duration: Aug 2024
 
 A lightweight hospital information management system developed in **C#**, demonstrating object-oriented programming (OOP), modular system design, data persistence, and console-based user interaction.
 
-This project simulates the essential administrative functions of a hospital, including managing doctors, patients, and appointments. It was developed as part of coursework and serves as a demonstration of structured C# application development.
+This project simulates the essential administrative functions of a hospital, including managing doctors, patients, and appointments. 
 
 ## Features
 
